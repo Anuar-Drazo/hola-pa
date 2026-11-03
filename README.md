@@ -25,13 +25,13 @@ Curso de Git y Github
 ## 2. Dificultades encontradas y como las resolvi
  
 - **Dificultad:** No sabia como mergear dos ramas.  
-  **Solucion:** Abri el archivo marcado por Git, revise las marcas <<<<<<<, ======= y >>>>>>>, deje el contenido correcto, guarde y haga git add y un nuevo commit
+ 
 - **Dificultad:** Error de autenticacion al hacer git push.  
-  **Solucion:** GitHub ya no acepta la contrasena de la cuenta en la terminal. Genere un token de acceso personal en GitHub (Settings > Developer settings) y lo use como contraseña
-- **Dificultad:** Git no reconocia mi usuario al hacer el primer commit
-  **Solucion:** Configure user.name y user.email con git config --global
+
+- **Dificultad:** Git no reconocia mi usuario al hacer el primer commit, tuve que configurar user.name y user.email
+
 - **Dificultad:** La rama principal se llamaba master y en GitHub es main  
-  **Solucion:** La renombre con git branch -M main antes de hacer push
+
 ## 4. Entrega
  
 Se adjunta el archivo PDF de esta actividad.
