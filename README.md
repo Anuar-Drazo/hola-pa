@@ -24,7 +24,7 @@ Curso de Git y Github
  
 ## 2. Dificultades encontradas y como las resolvi
  
-- **Dificultad:** No sabia como mergear dos ramas.  
+- **Dificultad:** No sabia como mergear dos ramas, tuve que verme el paso a paso de nuevo para cambiarme a la rama main y mergearla desde ahi
  
 - **Dificultad:** Error de autenticacion al hacer git push.  
 
